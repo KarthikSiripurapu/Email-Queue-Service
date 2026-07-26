@@ -70,7 +70,7 @@ Email Queue Service
 ### Clone Repository
 
 ```bash
-git clone <your-github-repository-url>
+git clone <[your-github-repository-url](https://github.com/KarthikSiripurapu/Email-Queue-Service.git)>
 ```
 
 ```bash
